@@ -39,3 +39,11 @@
 
 *~
 *#
+
+fsatest
+fsatest32
+fsatrace
+src/emit.os
+src/unix/fsatraceso.os
+src/unix/proc.os
+src/unix/shm.os
